@@ -49,10 +49,10 @@ Este backend expõe uma **API RESTful** para autenticação de estudantes, geren
 ### 📥 Instalação
 
 1. Clone o repositório:  
-   `git clone https://github.com/seu-user/portal-aluno-ifce-backend.git`
+   `git clone https://github.com/ViniMesquitaa/ifce-menu-server.git`
 
 2. Acesse o diretório do projeto:  
-   `cd portal-aluno-ifce-backend`
+   `cd ifce-menu-server`
 
 3. Configure o banco de dados no arquivo `application.properties`:
     - URL, usuário e senha do PostgreSQL
